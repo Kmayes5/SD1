@@ -1,0 +1,15 @@
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.deps.json
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.dll
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.pdb
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.sourcelink.json
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.dll
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.pdb
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/kristianmayes/Desktop/CSharp/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/ref/KnowledgeCheck1_Calculator.dll
